@@ -3,7 +3,7 @@
 
 # jupyter lab的使用
 ```
-1.打开Anaconda Prompt  
-2.先cd到工作文件夹  
-3.输入> jupyter lab  
+1. 打开Anaconda Prompt  
+2. 先cd到工作文件夹  
+3. 输入> jupyter lab  
 ```
