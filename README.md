@@ -7,3 +7,5 @@
 2. 先cd到工作文件夹  
 3. 输入> jupyter lab  
 ```
+
+`test` `fuck`
